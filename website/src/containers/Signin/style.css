@@ -1,0 +1,16 @@
+.SigninBox {
+  width: 22rem;
+  height: auto;
+  border-radius: 2px;
+  box-shadow: 0 0 6px 0 rgba(0, 115, 230, 0.3);
+}
+
+.LoginImg {
+  width: 10rem;
+  margin: 0 auto;
+}
+
+.RightCol {
+  display: flex;
+  justify-content: right;
+}
